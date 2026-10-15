@@ -3,7 +3,7 @@
 Static privacy policy site for BAPP. No dependencies or build step are required.
 
 The homepage (`index.html`) is copied from
-[BAPP's privacy policy](https://github.com/kerrytooley/BAPP/blob/main/public/privacy-policy.html).
+[BAPP's privacy policy](https://github.com/kerrytooley/BAPP/blob/main/privacy-policy.html/privacy-policy.html).
 Keep its policy text in sync with that source when the policy changes.
 
 ## Publish on GitHub Pages
